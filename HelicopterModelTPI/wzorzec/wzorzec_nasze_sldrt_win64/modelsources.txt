@@ -1,0 +1,2 @@
+    wzorzec_nasze.c
+
