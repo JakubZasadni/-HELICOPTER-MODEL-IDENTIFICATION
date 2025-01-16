@@ -1,0 +1,2 @@
+    wzorzec_bez_reg.c
+
