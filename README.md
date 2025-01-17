@@ -1,6 +1,7 @@
 # Helicopter Model Identification
 ## Final Outcome of the Project:
 
+<p align="center"> <img src="https://github.com/JakubZasadni/HelicopterModelIdentification/blob/main/HelicopterModelTPI/PNG/Heli.gif.gif" alt="c" width="auto" height="auto"/> </a>
 
 
 The aim of the project was to identify the key dynamic and static parameters of the system represented by the helicopter model, such as thrust and damping, and to test the effectiveness of the LQR controller in stabilizing the system.Additionally, the goal was to implement a Kalman filter to improve state estimation in the presence of measurement noise. A crucial aspect of the project was also to understand the impact of the cost matrix parameters of the controller on the dynamics and stability of the control system.
