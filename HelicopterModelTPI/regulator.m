@@ -5,7 +5,7 @@ c = 4.921249191542748;
 al = 0.495440761917189;
 b = 0.051492308002346;
 d = 0.125788155178429;
-[xr, ur]=get_eqpoint(-0.4);% punkt rownowagi
+[xr, ur]=get_eqpoint(0);% punkt rownowagi
 [A,B,C,D]=get_abcd(xr);% linearyzacja
 
 G=[0 0;1 0;0 1];
